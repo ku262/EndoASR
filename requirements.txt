@@ -1,0 +1,8 @@
+tqdm
+jiwer
+nltk
+bert-score
+torchaudio
+torch
+transformers
+numpy
