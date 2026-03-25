@@ -48,7 +48,7 @@ git clone https://github.com/ku262/EndoASR.git
 cd EndoASR
 pip install -r requirements.txt
 
-# Install FunASR
+# Install FunASR (required dependency)
 git clone https://github.com/alibaba/FunASR.git
 cd FunASR
 pip install -e .
